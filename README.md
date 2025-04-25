@@ -13,3 +13,7 @@ Use: Teleport the player to the hospital (directly to the check in doctor, vecto
 
 Use: If there is an EMS on duty and they are unable to respond to the distress or maybe the body bugged out causing it to be invisible to the eyes of the EMS, the EMS may use this command to allow players to use the /help command.
 
+Note:
+Ambulance and Police are the jobs that can use the /helptoggle (Can be changed in server file)
+Player will teleport in Pillbox Hospital using kiiya's Pillbox Interior @ https://kiiya.tebex.io/package/6458530 (Vector can be changed in server file)
+
